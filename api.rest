@@ -1,0 +1,10 @@
+GET http://localhost:8080
+
+###
+
+POST http://localhost:8080/multiply?num1=10.21&num2=30.3
+
+
+###
+
+POST http://localhost:8080/sub?num1=20&num2=40
